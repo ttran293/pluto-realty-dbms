@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS `pluto_realty`.`person` ;
+DROP TABLE IF EXISTS `pluto_realty`.`employees` ;
+DROP TABLE IF EXISTS `pluto_realty`.`property_viewings` ;
+DROP TABLE IF EXISTS `pluto_realty`.`rental_properties` ;
+DROP TABLE IF EXISTS `pluto_realty`.`associates` ;
+DROP TABLE IF EXISTS `pluto_realty`.`clients` ;
+DROP TABLE IF EXISTS `pluto_realty`.`commercial_prop` ;
+DROP TABLE IF EXISTS `pluto_realty`.`employee_email` ;
+DROP TABLE IF EXISTS `pluto_realty`.`industrial_prop` ;
+DROP TABLE IF EXISTS `pluto_realty`.`leases` ;
+DROP TABLE IF EXISTS `pluto_realty`.`property_owner` ;
+DROP TABLE IF EXISTS `pluto_realty`.`partners` ;
+DROP TABLE IF EXISTS `pluto_realty`.`prop_view_date` ;
+DROP TABLE IF EXISTS `pluto_realty`.`residential_prop` ;
+DROP TABLE IF EXISTS `pluto_realty`.`supervisor` ;
